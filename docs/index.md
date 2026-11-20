@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://zefiruz.github.io/devops-docs/`.
-
-[тест](missing-page.md)
